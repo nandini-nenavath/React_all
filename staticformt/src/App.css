@@ -1,0 +1,10 @@
+.Centered{
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+.tab,tr,th,td{
+  border: solid 1px;
+  align-items: center;
+  margin-left: 10px;
+}
